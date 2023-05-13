@@ -2,7 +2,7 @@
     /* Aligns the button to the right side of the container */
     float: right
     /* Sets the fill color of the button icon */
-    fill: rgb(255, 255, 255);
+    fill: rgb(255, 137, 150);
     /* Changes the cursor to a pointer when hovering over the button */
     cursor: pointer;
     /* Removes the outline around the button when clicked */
