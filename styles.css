@@ -1,3 +1,7 @@
+.bpw-layout {
+    height: 50%;
+}
+
 .bpw-floating-button {
     /* Aligns the button to the right side of the container */
     float: right
