@@ -31,6 +31,7 @@
     /* Removes padding and borders from the button */
     padding: 0;
     border: none;
+    color: #0b185e;
     background-clip: padding-box;
     /* Adds a transition effect to the button when its size changes */
     transition: width 1s, height 1s;
