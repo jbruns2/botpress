@@ -38,7 +38,7 @@
 }
 /*custom button icon*/
 bpw-floating-button {
-    background-image: url("https://github.com/jbruns2/Q-Table/blob/main/images/Union-28.png?raw=true");
+    background-image: url(https://github.com/jbruns2/Q-Table/blob/main/images/Union-28.png?raw=true);
 }
 /*button transition*/
 .bpw-floating-button i {
