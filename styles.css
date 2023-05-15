@@ -14,8 +14,8 @@
     /* Sets the z-index to ensure the button is on top of other elements */
     z-index: 1;
     /* Sets the width and height of the button */
-    width: 52px;
-    height: 52px;
+    width: 200px;
+    height: 200px;
     /* Changes the cursor to a pointer when hovering over the button */
     cursor: pointer;
     /* Rounds the corners of the button */
@@ -62,7 +62,7 @@ bpw-floating-button {
     width: 20px;
     height: 20px;
     /* Rounds the corners of the badge to make it circular */
-    border-radius: 50%;
+    border-radius: 100%;
     /* Centers the text inside the badge */
     line-height: 20px;
     /* Sets the color of the text inside the badge */
