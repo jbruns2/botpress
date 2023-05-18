@@ -41,7 +41,7 @@
     transition: width 1s, height 1s;
 }
 /*custom button icon*/
-bpw-floating-button {
+.bpw-floating-button {
     background-image: url('https://raw.githubusercontent.com/jbruns2/Q-Table/main/images/Union-28.png');
 }
 /*button transition*/
