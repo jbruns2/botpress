@@ -43,6 +43,8 @@
 /*custom button icon*/
 .bpw-floating-button {
     background-image: url('https://raw.githubusercontent.com/jbruns2/Q-Table/main/images/Union-28.png');
+    width: 25%;
+    height: 25%;
 }
 /*button transition*/
 .bpw-floating-button i {
