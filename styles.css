@@ -155,7 +155,7 @@ fill: var(--reef);
 }
 .bpw-header-title-container .bpw-bot-avatar {
     /* sets the display of the element to none */
-    display: none;
+    display: inline-block;
 }
 .bpw-header-title-container .bpw-bot-avatar svg {
     /* sets the zoom level of the element */
