@@ -219,3 +219,11 @@ fill: var(--reef);
     /* sets the padding of the element */
     padding: var(--spacing-large) var(--spacing-x-large);
 }
+
+.bpw-bot-avatar img, .bpw-bot-avatar svg {
+    background: #fff;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+}
