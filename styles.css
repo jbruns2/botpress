@@ -4,6 +4,7 @@
 
 .bpw-layout {
     height: fit-content;
+    max-height: 75%;
 }
 
 .bpw-floating-button {
